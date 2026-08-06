@@ -13,7 +13,7 @@ Spring Boot 기반의 개발자로, 세미 프로젝트에서 얻은 아이디�
 - **Database** : MySQL 8.0, ER 설계, 서버사이드 페이지네이션
 - **Infra** : AWS EC2 배포, GitHub 협업 (develop → main 브랜치 전략)
 - **AI 연동** : Google Gemini API 실무 통합 (프롬프트 설계, JSON 파싱)
-- **보안** : BCrypt 단방향 암호화, Spring Interceptor 기반 권한 제어(RBAC)
+- **보안** : BCrypt 단방향 암호화, 세션 기반 권한 제어(RBAC)
 
 ---
 
